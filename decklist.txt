@@ -35,7 +35,7 @@
 1 Narset Transcendant
 2 Disdainful Stroke
 2 Negate
-1 Dig Through Time
+1 Dispel
 1 Rending Volley
 2 Arc Lightning
 1 Radiant Flames
