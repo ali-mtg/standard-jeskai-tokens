@@ -3,9 +3,8 @@
 2 Seeker of the Way
 2 Valorous Stance
 2 Anticipate
-2 Abbot of Keral Keep
+3 Abbot of Keral Keep
 4 Dragon Fodder
-1 Chandra, Fire of Kaladesh
 4 Hordeling Outburst
 4 Jeskai Ascendancy
 1 Jeskai Charm
